@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for polling a CFTools DayZ server and updating player count in a voice channel.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "discord",
+    "cftools",
+    "dayz",
+    "docker",
+    "node.js"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "cftools-sdk": "^3.1.7",
+    "discord.js": "^13.2.0",
+    "punycode.js": "^2.3.1"
+  }
+}

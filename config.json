@@ -1,0 +1,13 @@
+{
+    "BOT_TOKEN": "",
+    "PRESENCE_NAME": "",
+    "PRESENCE_TYPE": "",
+    "POLLING_INTERVAL": 300,
+    "SERVER": 
+        {
+            "NAME": "",
+            "CHANNEL_ID": "",
+            "CFTOOLS_HOSTNAME": "",
+            "CFTOOLS_PORT": ""
+        }
+}
